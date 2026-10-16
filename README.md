@@ -75,7 +75,7 @@
 **Certifications:** AWS Academy Cloud Foundations · Postman API Fundamentals Student Expert · Deloitte Data Analytics Simulation
 
 <p>
-  <a href="https://www.leetcode.com/omkarbandikatte"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>
+  <a href="https://www.leetcode.com/u/omkarbandikatte"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>
   <a href="https://www.codechef.com/users/bandikatte"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" /></a>
   <a href="https://codeforces.com/profile/omkarbandikatte2602"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" /></a>
   <a href="https://codolio.com/profile/omkarbandikatte"><img src="https://img.shields.io/badge/Codolio-6C47FF?style=flat-square" /></a>
