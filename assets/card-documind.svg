@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 218" width="440" height="218" role="img" aria-label="DocuMind: Answers across PDFs, web pages, YouTube, audio and images with hybrid retrieval and cited claims. Refuses when it is not sure.">
+  <defs>
+    <pattern id="dotsc" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1" fill="#ffffff" opacity="0.045"/></pattern>
+    <radialGradient id="glowc" cx="88%" cy="0%" r="70%"><stop offset="0" stop-color="#f2a93b" stop-opacity="0.16"/><stop offset="1" stop-color="#f2a93b" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect x="1" y="1" width="438" height="216" rx="16" fill="#0b0f14" stroke="#263445"/>
+  <rect x="1" y="1" width="438" height="216" rx="16" fill="url(#dotsc)"/>
+  <rect x="1" y="1" width="438" height="216" rx="16" fill="url(#glowc)"/>
+  <rect x="24" y="20" width="34" height="26" rx="6" fill="#1a1608" stroke="#f2a93b"/>
+  <text x="41" y="38" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="13" fill="#f2a93b">2</text>
+  <text x="70" y="37.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="12" letter-spacing="1" fill="#7d8b99">TRUST-AWARE RAG</text>
+  
+  <text x="23" y="78" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="24" font-weight="700" letter-spacing="-0.4" fill="#eef2f6">DocuMind</text>
+  <text x="24" y="104" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.5" fill="#b6c2cf">Answers across PDFs, web pages, YouTube, audio and</text>
+  <text x="24" y="125" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.5" fill="#b6c2cf">images with hybrid retrieval and cited claims.</text>
+  <text x="24" y="146" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.5" fill="#b6c2cf">Refuses when it is not sure.</text>
+  <line x1="24" y1="174" x2="416" y2="174" stroke="#263445"/>
+  <text x="24" y="196" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="11.5" fill="#7d8b99">FastAPI · Qdrant · Elasticsearch · Gemini</text>
+</svg>

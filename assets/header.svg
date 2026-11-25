@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 372" width="900" height="372" role="img" aria-label="Query: who is Omkar Bandikatte? Answer: Omkar Bandikatte builds AI systems that ship: RAG pipelines, tool-calling agents, and the full stack around them.">
+  <style>
+    @keyframes fade { from { opacity: 0 } }
+    @keyframes rise { from { opacity: 0; transform: translateY(10px) } }
+    @keyframes blink { 50% { opacity: 0 } }
+    .lit { animation: fade .35s ease-out backwards }
+    .a1 { animation: fade .4s ease-out 4.0s backwards }
+    .a2 { animation: rise .6s ease-out 4.1s backwards }
+    .a3 { animation: rise .6s ease-out 4.4s backwards }
+    .a4 { animation: fade .6s ease-out 4.8s backwards }
+    .cur { animation: blink 1s steps(1) infinite }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important } }
+  </style>
+  <defs>
+    <pattern id="dotsh" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1" fill="#ffffff" opacity="0.045"/></pattern>
+    <radialGradient id="glowh" cx="88%" cy="0%" r="70%"><stop offset="0" stop-color="#f2a93b" stop-opacity="0.16"/><stop offset="1" stop-color="#f2a93b" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect x="1" y="1" width="898" height="370" rx="16" fill="#0b0f14" stroke="#263445"/>
+  <rect x="1" y="1" width="898" height="370" rx="16" fill="url(#dotsh)"/>
+  <rect x="1" y="1" width="898" height="370" rx="16" fill="url(#glowh)"/>
+  <clipPath id="type"><rect x="94" y="44" height="36" width="266"><animate attributeName="width" values="0;0;266" keyTimes="0;0.15;1" dur="1.9s" fill="freeze"/></rect></clipPath>
+
+  <!-- query bar -->
+  <rect x="40" y="36" width="820" height="52" rx="26" fill="#111821" stroke="#263445"/>
+  <circle cx="66" cy="60" r="7" fill="none" stroke="#7d8b99" stroke-width="2"/>
+  <line x1="71" y1="65.5" x2="77" y2="71.5" stroke="#7d8b99" stroke-width="2" stroke-linecap="round"/>
+  <text x="94" y="68" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="18" fill="#eef2f6" textLength="260" clip-path="url(#type)">who is omkar bandikatte?</text>
+  <rect class="cur" x="360" y="50" width="9" height="22" fill="#f2a93b"/>
+  <text x="836" y="66" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="12" fill="#7d8b99">grounded search</text>
+
+  <!-- pipeline -->
+  <line x1="40" y1="139" x2="860" y2="139" stroke="#263445" stroke-dasharray="3 5"/>
+  <circle r="4" cy="139" fill="#f2a93b" opacity="0"><animate attributeName="cx" values="40;860" dur="3.2s" begin="4.4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1" dur="0.01s" begin="4.4s" fill="freeze"/></circle>
+  <g>
+    <rect x="40" y="122" width="140" height="34" rx="17" fill="#111821" stroke="#263445"/>
+    <g class="lit" style="animation-delay:2.0s">
+      <rect x="40" y="122" width="140" height="34" rx="17" fill="#1a1608" stroke="#f2a93b"/>
+      <circle cx="60" cy="139" r="4" fill="#f2a93b"/>
+      <text x="74" y="144" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="12.5" letter-spacing="1.5" fill="#f2a93b">INGEST</text>
+    </g>
+  </g>
+  <g>
+    <rect x="210" y="122" width="140" height="34" rx="17" fill="#111821" stroke="#263445"/>
+    <g class="lit" style="animation-delay:2.4s">
+      <rect x="210" y="122" width="140" height="34" rx="17" fill="#1a1608" stroke="#f2a93b"/>
+      <circle cx="230" cy="139" r="4" fill="#f2a93b"/>
+      <text x="244" y="144" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="12.5" letter-spacing="1.5" fill="#f2a93b">RETRIEVE</text>
+    </g>
+  </g>
+  <g>
+    <rect x="380" y="122" width="140" height="34" rx="17" fill="#111821" stroke="#263445"/>
+    <g class="lit" style="animation-delay:2.8s">
+      <rect x="380" y="122" width="140" height="34" rx="17" fill="#1a1608" stroke="#f2a93b"/>
+      <circle cx="400" cy="139" r="4" fill="#f2a93b"/>
+      <text x="414" y="144" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="12.5" letter-spacing="1.5" fill="#f2a93b">RERANK</text>
+    </g>
+  </g>
+  <g>
+    <rect x="550" y="122" width="140" height="34" rx="17" fill="#111821" stroke="#263445"/>
+    <g class="lit" style="animation-delay:3.2s">
+      <rect x="550" y="122" width="140" height="34" rx="17" fill="#1a1608" stroke="#f2a93b"/>
+      <circle cx="570" cy="139" r="4" fill="#f2a93b"/>
+      <text x="584" y="144" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="12.5" letter-spacing="1.5" fill="#f2a93b">VERIFY</text>
+    </g>
+  </g>
+  <g>
+    <rect x="720" y="122" width="140" height="34" rx="17" fill="#111821" stroke="#263445"/>
+    <g class="lit" style="animation-delay:3.6s">
+      <rect x="720" y="122" width="140" height="34" rx="17" fill="#1a1608" stroke="#f2a93b"/>
+      <circle cx="740" cy="139" r="4" fill="#f2a93b"/>
+      <text x="754" y="144" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="12.5" letter-spacing="1.5" fill="#f2a93b">ANSWER</text>
+    </g>
+  </g>
+
+  <!-- answer -->
+  <text class="a1" x="40" y="204" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="12" letter-spacing="2.5" fill="#f2a93b">ANSWER</text>
+  <text class="a2" x="38" y="254" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="46" font-weight="700" letter-spacing="-1" fill="#eef2f6">Omkar Bandikatte</text>
+  <text class="a3" x="40" y="290" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="17" fill="#b6c2cf">I build AI systems that ship: RAG pipelines, tool-calling agents, and the full stack around them.</text>
+  <g class="a4">
+    <rect x="40" y="318" width="91" height="26" rx="13" fill="#111821" stroke="#263445"/>
+    <text x="52" y="335.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="12" fill="#f2a93b">sources 6</text>
+    <rect x="140.60000000000002" y="318" width="98" height="26" rx="13" fill="#111821" stroke="#263445"/>
+    <text x="152.60000000000002" y="335.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="12" fill="#4fd1c5">grounded ✓</text>
+    <rect x="248.60000000000002" y="318" width="98" height="26" rx="13" fill="#111821" stroke="#263445"/>
+    <text x="260.6" y="335.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="12" fill="#b6c2cf">Mumbai, IN</text>
+    <rect x="356.6" y="318" width="231" height="26" rx="13" fill="#111821" stroke="#263445"/>
+    <text x="368.6" y="335.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="12" fill="#b6c2cf">open to AI engineering roles</text>
+  </g>
+</svg>

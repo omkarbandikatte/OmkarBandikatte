@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 330 50" width="330" height="50" role="img" aria-label="Visit omkarbandikatte.tech">
+  <rect x="1" y="1" width="328" height="48" rx="24" fill="#f2a93b"/>
+  <text x="34" y="31" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="15.5" font-weight="700" fill="#0b0f14">omkarbandikatte.tech</text>
+  <g fill="none" stroke="#0b0f14" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M272 25 h26 m-8 -8 l8 8 l-8 8"/>
+    <animateTransform attributeName="transform" type="translate" values="0 0;5 0;0 0" dur="1.6s" repeatCount="indefinite"/>
+  </g>
+</svg>
